@@ -1,0 +1,13 @@
+{
+    "formTitle": "Login",
+    "inputUsernamePlaceholder": "Username",
+    "inputUsernameErrorEmpty": "Please input your username!",
+    "inputPasswordPlaceholder": "Password",
+    "inputPasswordErrorEmtpy": "Please input your password!",
+    "labelRememberMe": "Remember me",
+    "buttonForgotPassword": "Forgot password",
+    "buttonLogin": "Log in",
+    "buttonRegister": "register now",
+    "labelOr": "Or"
+  }
+  

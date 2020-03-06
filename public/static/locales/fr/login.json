@@ -1,0 +1,13 @@
+{
+    "formTitle": "S'identifier",
+    "inputUsernamePlaceholder": "Utilisateur",
+    "inputUsernameErrorEmpty": "Veuillez saisir votre nom d'utilisateur",
+    "inputPasswordPlaceholder": "Mot de passe",
+    "inputPasswordErrorEmtpy": "Veuillez saisir votre nom d'utilisateur",
+    "labelRememberMe": "Se souvenir",
+    "buttonForgotPassword": "Mot de passe perdu",
+    "buttonLogin": "Se connecter",
+    "buttonRegister": "créer un compte",
+    "labelOr": "Ou"
+  }
+  
